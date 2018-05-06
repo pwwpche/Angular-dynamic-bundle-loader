@@ -1,0 +1,16 @@
+{
+  "name": "angular-dynamic-bundle-loader",
+  "version": "0.0.1",
+  "description": "Load Angular module from an external Webpack bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "webpack",
+    "loader"
+  ],
+  "author": "pwwpche",
+  "license": "MIT"
+}
